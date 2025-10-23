@@ -301,7 +301,7 @@ a {
 
 @media (max-width: 1024px) {
     .section1 {
-    background-image: url(/images/bg-hero-desktop.svg);
+    background-image: url(images/bg-hero-desktop.svg);
     background-size: contain;
     background-position: top;
     background-size: cover;
@@ -439,7 +439,7 @@ a {
     }
 
     .section1 {
-    background-image: url(/images/bg-hero-mobile.svg);
+    background-image: url(images/bg-hero-mobile.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-color: hsl(322, 100%, 98%);
@@ -632,7 +632,7 @@ a {
 @media (max-width: 425px) {
 
     .section1 {
-    background-image: url(/images/bg-hero-mobile.svg);
+    background-image: url(images/bg-hero-mobile.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-color: hsl(322, 100%, 98%);
@@ -781,7 +781,7 @@ a {
 @media (max-width: 375px) {
 
     .section1 {
-    background-image: url(/images/bg-hero-mobile.svg);
+    background-image: url(images/bg-hero-mobile.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-color: hsl(322, 100%, 98%);
@@ -929,7 +929,7 @@ a {
         height: 3070px;
     }
     .section1 {
-    background-image: url(/images/bg-hero-mobile.svg);
+    background-image: url(images/bg-hero-mobile.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-color: hsl(322, 100%, 98%);

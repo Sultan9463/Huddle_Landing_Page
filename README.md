@@ -35,9 +35,10 @@
 ## difficultés rencontres 
 - les difficultes sont enormes surtout pour gener le media query pour un débutant ce pas facile, mais ça va avec le temps; 
 ## Ci-dessus le lien de Git-pagee 
+ https://sultan9463.github.io/Huddle_Landing_Page/
 
 ## Ci-dessus un petit aperçu du projet
-![capture](Capture%20d’écran%202025-10-23%20à%2004.05.01.png)
+![capture](./images/Capture%20d’écran%202025-10-23%20à%2004.05.01.png)
 
 
 
