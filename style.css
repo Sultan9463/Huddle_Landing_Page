@@ -10,6 +10,7 @@ body {
     justify-content: center;
     min-height: 100vh;
     font-size: 18px;
+    font-weight: 400, 700;
 }
 
 .main_ {
@@ -511,6 +512,7 @@ a {
     .lien {
         width: 100%;
         align-items: center;
+        text-align: center;
     }
 
     .rond {
@@ -566,7 +568,7 @@ a {
     .section2 {
         margin: 0;
         gap: 5px;
-        height: 1540px;
+        height: 1610px;
     }
 
     .imag_mocku {
@@ -576,7 +578,7 @@ a {
 
     .btn {
         width: 350px;
-        height: 300px;
+        height: 200px;
     }
 
     .btn h2 {
@@ -678,9 +680,24 @@ a {
         color: #6b6868;
     }
 
+    .section1 {
+        height: 1000px;
+    }
+
     .section2 {
         margin-top: 0;
-        height: 1380px;
+        height: 1460px;
+    }
+
+    .huddle {
+        gap: 70px;
+
+    }
+
+    .btn {
+        width: 294px;
+        height: 150px;
+        margin-top: 100px;
     }
 
     .copy {
